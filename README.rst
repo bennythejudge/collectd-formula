@@ -196,3 +196,8 @@ Or you can combine both - default plugins in custom state and specific in topfil
     'apache-server':
       - collectd-custom
       - collectd.apache
+
+
+.. image:: https://badges.production.guardrails.io/bennythejudge/collectd-formula.svg
+   :alt: GuardRails badge
+   :target: https://www.guardrails.io
